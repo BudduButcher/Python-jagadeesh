@@ -7,5 +7,3 @@ def maxArea(A, Len) :
 a= [int(i) for i in input().split()]
 len1 = len(a)
 print(maxArea(a, len1))
- 
-
